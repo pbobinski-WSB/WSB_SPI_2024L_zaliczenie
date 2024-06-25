@@ -15,7 +15,7 @@ class Enemy:
 
     def use_ability(self, character):
         if self.ability == "Savage Bite":
-            damage = self.level * 3 + random.randint(10, 20)
+            damage = self.level * 3 + random.randint(12, 20)
             character.apply_status_effect("bleed")
         elif self.ability == "Poison Spit":
             damage = self.level * 2 + random.randint(5, 15)
