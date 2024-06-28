@@ -1,0 +1,1 @@
+print("edycja zad1")
