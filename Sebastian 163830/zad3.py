@@ -1,0 +1,1 @@
+print("Mam nadzieję, że wystarczy")
