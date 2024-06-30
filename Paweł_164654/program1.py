@@ -1,1 +1,1 @@
-print ("Witam ponownie.")
+print ("Witam ponownie na koniec.")
