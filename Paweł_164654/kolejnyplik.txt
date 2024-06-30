@@ -1,1 +1,2 @@
 To jest kolejny nowy plik
+Dodanie kolejnej linii do pliku
