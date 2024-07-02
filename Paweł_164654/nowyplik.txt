@@ -1,0 +1,3 @@
+To jest nowy plik
+Dodanie nowej linii do pliku
+Kolejna zmiana w pliku
